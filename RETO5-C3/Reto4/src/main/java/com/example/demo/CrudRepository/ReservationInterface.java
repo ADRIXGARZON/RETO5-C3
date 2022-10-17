@@ -12,7 +12,7 @@ import org.springframework.data.repository.CrudRepository;
 
 /**
  *
- * @author USUARIO
+ * @author adrixgarzon
  */
 public interface ReservationInterface extends CrudRepository <Reservation, Integer> {
     

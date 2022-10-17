@@ -13,7 +13,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author USUARIO
+ * @author adrixgarzon
  */
 
 @Repository

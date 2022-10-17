@@ -8,7 +8,7 @@ import com.example.demo.Entities.Client;
 
 /**
  *
- * @author WilsonAndrésRodrígue
+ * @author adrixgarzon
  */
  public class CountClient {
     
